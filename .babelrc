@@ -1,0 +1,7 @@
+// babel单独的设置项
+// 执行的顺序不应该
+{
+  "presets": [
+      "@babel/preset-react"
+  ]
+}
